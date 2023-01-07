@@ -6,6 +6,9 @@
 	font-size: inherit;
 	font-weight: inherit;
 }
+html{
+	scroll-behavior: smooth;
+}
 body{
 	font-family: 'Nunito', sans-serif;
 }
